@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+body {
+  background-color: #30323d;
+}
+
+h3 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: small;
+}
+
+h2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  font-size: 2.2rem;
+}
